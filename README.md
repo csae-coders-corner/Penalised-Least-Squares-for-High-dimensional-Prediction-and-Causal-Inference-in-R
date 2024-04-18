@@ -1,3 +1,5 @@
+![CC Graphics 2024_Penalisedleastsquares](https://github.com/csae-coders-corner/Penalised-Least-Squares-for-High-dimensional-Prediction-and-Causal-Inference-in-R/assets/148211163/91efa115-0ad0-45e9-ad73-23b6e5152420)
+
 # Penalised-Least-Squares-for-High-dimensional-Prediction-and-Causal-Inference-in-R
 Among economists, machine learning methods have become a popular tool for performing high-dimensional causal inference. In a high-dimensional setting, namely where the number of parameters (p) that we want to estimate is not much larger than the number of observations (n), the OLS procedure overfits the sample, leading to lower prediction accuracy out of sample.
 
